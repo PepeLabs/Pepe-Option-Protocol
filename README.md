@@ -1,3 +1,5 @@
 # Pepe-Option-Protocol
 
-code of protocol will publish when list on ethereum main net
+official website: pepelabs.meme
+x: @pepe_option
+whitePaper: docs.pepelabs.meme
